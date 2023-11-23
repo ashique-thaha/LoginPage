@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-uooaj=p8h+10fdcn=)2a*5naukal17lq6&taq-olgq*pd(bcr7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://ashique-thaha.github.io/LoginPage/']
+ALLOWED_HOSTS = ['ashique-thaha.github.io']
 
 
 # Application definition
