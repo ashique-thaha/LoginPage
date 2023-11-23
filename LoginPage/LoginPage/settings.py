@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-uooaj=p8h+10fdcn=)2a*5naukal17lq6&taq-olgq*pd(bcr7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['https://ashique-thaha.github.io/LoginPage/']
 
